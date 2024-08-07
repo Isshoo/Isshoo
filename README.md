@@ -8,7 +8,7 @@ I'm currently active in contributing as Pulstak Developer student at <a href="ht
 - 🌱 I’m currently learning about life
 - 💬 Feel free to ask me about nothing
 - 📫 How to reach me: youcant.com
-- ⚡ Fun fact: I'm Fun
+- ⚡ Fun fact: not Fun
 
 ### Bukan Keahlian Saya
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -19,11 +19,11 @@ I'm currently active in contributing as Pulstak Developer student at <a href="ht
   <br>
   <br>
   
-### Github Statistictod
+### Github Statistod
 <p align="left">
 <a href="https://github.com/Isshoo">
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isshoo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isshoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isshoo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
