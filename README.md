@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo kalian para manusia biasa 👋
 
 <!--
 **Isshoo/Isshoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
