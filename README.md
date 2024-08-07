@@ -2,7 +2,7 @@
 
 Saya Elong Mas, An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScriptod and make it the main language in creating a project.
 
-I'm currently active in contributing as Pulstak Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to learn Prontend and Backend cuy.
+I'm currently active in contributing as Pulstak Developer student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> focusing on Prontend and Backend Apps cuy.
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">Mars</a>
 - 🌱 I’m currently learning about life
