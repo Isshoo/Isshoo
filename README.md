@@ -4,7 +4,7 @@ Saya Elong Mas, An independent Software Engineer who loves to create and share p
 
 I'm currently active in contributing as Pulstak Developer student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> focusing on Prontend and Backend Apps cuy.
 
-🔭 I’m currently working on <a href="https://github.com/dicodingacademy">ExploreMarsCompany</a> <br>
+🔭 I’m currently working on <a href="https://nasa.gov">ExploreMarsCompany</a> <br>
 🌱 And currently not learning.
 
 #### Bukan Keahlian Saya
