@@ -1,4 +1,4 @@
-## Halo orang-orang berdosa 👋
+## Halo para homosapiens 👋
 
 Saya Elong Mas, An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScriptod and make it the main language in creating a project.
 
