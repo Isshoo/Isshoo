@@ -2,7 +2,7 @@
 
 It's Me, An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Fullstack Developer student at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> focusing on Frontend and Backend Apps cuy.
+I'm recently graduated at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> as a Dicoding Bootcamp Batch 3 Cohort, focusing on Frontend and Backend Web Development.
 
 🌱 And currently learning.
 
