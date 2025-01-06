@@ -4,7 +4,7 @@ It's Me, An independent Software Engineer who loves to create and share projects
 
 I'm recently graduated at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> as a Dicoding Bootcamp Batch 3 Cohort, focusing on Frontend and Backend Web Development.
 
-🌱 And currently learning.
+🌱 And now currently learning React.js
 
 #### What I Kinda Like
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
