@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Algy.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Informatics+Engineering+Student;Web+Development+Enthusiast;Keep+Code!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Junior+Web+Developer" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stacks Goals to Mastered
 
 ### **Frontend Development**
 <p>
