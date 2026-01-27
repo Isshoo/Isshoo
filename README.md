@@ -14,8 +14,8 @@
 
 ## 🚀 About Me
 
-🎯 **Independent Software Engineer** passionate about creating impactful digital solutions
-📍 **Based in:** Tomohon, North Sulawesi, Indonesia
+🎯 **Independent Software Engineer** passionate about creating impactful digital solutions </br>
+📍 **Based in:** Tomohon, North Sulawesi, Indonesia </br>
 🌱 **Currently Learning:** Machine Learning & Advanced Fullstack Architecture
 
 
