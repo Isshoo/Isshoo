@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-🎯 **Independent Software Engineer** passionate about creating impactful digital solutions </br>
-📍 **Based in:** Tomohon, North Sulawesi, Indonesia </br>
-🌱 **Currently Learning:** Machine Learning & Advanced Fullstack Architecture
+🎯 **Independent Vibe Coder** passionate about creating impactful digital solutions using AI 😎</br>
+📍 **Based in** Tomohon, North Sulawesi, Indonesia </br>
+🌱 **Currently Learning** Machine Learning & Fullstack Web Development
 
 
 ---
