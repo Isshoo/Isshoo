@@ -41,6 +41,7 @@
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=fff&style=for-the-badge"/>
 </p>
 
 ---
