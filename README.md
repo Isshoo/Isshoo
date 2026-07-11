@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Algy.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Junior+Vibe+Coder+😎" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Informatics+Engineering;" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 
-🎯 **Independent Vibe Coder** passionate about creating impactful digital solutions using AI 😎</br>
 📍 **Based in** Tomohon, North Sulawesi, Indonesia </br>
 🌱 **Currently Learning** Machine Learning & Fullstack Web Development
 
