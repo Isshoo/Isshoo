@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isshoo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/Isshoo?style=flat-square&color=blue&label=Followers" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=algyngenget&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/algyngenget?style=flat-square&color=blue&label=Followers" alt="GitHub followers">
   <img src="https://img.shields.io/badge/Focus-AI%20&%20Fullstack%20Development-brightgreen?style=flat-square" alt="Focus">
 </div>
 
@@ -48,8 +48,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isshoo&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isshoo&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algyngenget&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algyngenget&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
